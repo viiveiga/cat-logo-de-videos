@@ -1,4 +1,7 @@
+element.style {
+   background: black;
 body {
-    color: white;
-    background: black;
+display: block;
+margin: 8px;
+
 }
